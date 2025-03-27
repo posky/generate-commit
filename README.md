@@ -1,7 +1,5 @@
 # generate-commit
 
-Describe your project here.
-
 ```mermaid
 flowchart TD
     A["프로그램 실행 (shell에서 Python 프로그램 호출)"] --> B[git diff 실행]
